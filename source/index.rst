@@ -8,8 +8,9 @@ Get Started with Sphinx
 .. toctree::
    :maxdepth: 2
 
-   part-1
-   part-2
+   Main Page
+   Information Page
+   Interests Page
 
 
 .. add new files to list above to include them in toc
