@@ -6,7 +6,7 @@ Get Started with Sphinx
 |Contents|
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    part-1
    part-2
