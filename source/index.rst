@@ -8,8 +8,8 @@ Get Started with Sphinx
 .. toctree::
    :maxdepth: 3
 
-   Part-1
-   Part-2
+   part-1
+   part-2
    part-3
 
 
