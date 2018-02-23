@@ -1,9 +1,9 @@
 Interests
 **********
 
-.. image:: latest
+.. image:: latest.png
   :width: 400
-  :alt: Luigi is one of my favorite video game characters
+  :alt: Luigi 
  
 
 .. note::
