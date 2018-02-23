@@ -2,7 +2,7 @@ Interests
 **********
 
 .. image:: latest.png
-  :width: 400
+  :width: 50
   :alt: Luigi 
  
 
