@@ -1,18 +1,14 @@
 Interests
 **********
 
-.. |Substitution-Luigi| image:: latest.png
-        :alt: Luigi is one of my favorite video game characters of all time.
-        :width: 300
- 
- 
- |Substitution-Luigi|
-
+.. image:: latest
+  :width: 400
+  :alt: Luigi is one of my favorite video game characters
  
 
 .. note::
-   I get defensive when it comes to choosing my character in a Mario game. I either play as Luigi or I do not play at all.
-
+   I have a weird obsession with the color green
+   
 Videos I enjoy
 ==============
 One thing I  enjoy is watching drum corps play. 
